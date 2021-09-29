@@ -7,4 +7,5 @@ public class logDebug {
             Log.d("new","newer");
 
       }
+      
 }
